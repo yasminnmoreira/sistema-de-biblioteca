@@ -2,7 +2,6 @@
 # 📚 Sistema de Biblioteca Online 
 
 Este é um projeto simples de sistema de gerenciamento de biblioteca online, podendo salvar livros, excluir e etc
-O backend foi totalmente implementado utilizando os recursos do **Supabase** (PostgreSQL, APIs REST e Edge Functions).
 
 ---
 
